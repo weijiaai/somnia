@@ -1,7 +1,3 @@
-layout: page
-title: "隐私政策"
-permalink: /privacy
-
 # Somnia 隐私政策
 
 **最后更新日期：2026 年 3 月 5 日**

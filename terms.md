@@ -1,7 +1,3 @@
-layout: page
-title: "服务条款"
-permalink: /terms
-
 **Terms & Conditions**  
 
 These terms and conditions apply to the Somnia app (hereby referred to as "Application") for mobile devices that was created by VEGAR (hereby referred to as "Service Provider") as a Free service.
