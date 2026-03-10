@@ -1,58 +1,66 @@
-# Somnia 隐私政策
+**Privacy Policy**
 
-**最后更新日期：2026 年 3 月 5 日**
+This privacy policy applies to the Somnia app (hereby referred to as "Application") for mobile devices that was created by VEGAR (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-## 1. 引言
+**Information Collection and Use**
 
-欢迎使用 Somnia（以下简称"本应用"）。我们重视您的隐私，并致力于保护您的个人信息安全。本隐私政策说明了您在使用本应用时，我们如何收集、使用和保护您的信息。
+The Application collects information when you download and use it. This information may include information such as
 
-## 2. 信息收集
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
-### 2.1 我们不收集的信息
+The Application does not gather precise information about the location of your mobile device.
 
-Somnia 是一款完全离线运行的应用，我们**不收集**以下任何信息：
+The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
 
-- 个人身份信息
-- 位置信息
-- 设备信息
-- 使用统计数据
-- 联系人或通讯录
-- 任何其他个人信息
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-### 2.2 本地存储
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-本应用仅在您的设备本地存储必要的音频文件，这些数据仅存储在您的设备上，不会传输到我们的服务器或任何第三方。
+**Third Party Access**
 
-## 3. 权限使用
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-本应用不需要任何特殊权限即可运行。所有功能都可以在离线状态下使用。
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-## 4. 第三方服务
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 
-本应用不包含任何第三方分析 SDK、广告 SDK 或其他数据收集组件。
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-## 5. 数据安全
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-由于本应用不收集任何个人信息，因此不存在数据泄露或滥用的风险。您的所有数据都安全地存储在您的设备上。
+**Opt-Out Rights**
 
-## 6. 儿童隐私
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-本应用适合所有年龄段的用户使用，包括儿童。由于我们不收集任何个人信息，因此也不存在儿童隐私保护问题。
+**Data Retention Policy**
 
-## 7. 隐私政策变更
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at micross.xp@gmail.com and they will respond in a reasonable time.
 
-如果我们决定更新隐私政策，我们会在应用内发布更新后的政策。由于本应用不收集任何信息，隐私政策的变更可能性极小。
+**Children**
 
-## 8. 联系我们
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (micross.xp@gmail.com) so that they will be able to take the necessary actions.
 
-- 电子邮件：privacy@somnia.cn
+**Security**
 
-## 9. 同意
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-通过使用本应用，您即表示同意本隐私政策所述的内容。
+**Changes**
 
----
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-*本隐私政策最终解释权归 Somnia 开发团队所有*
+This privacy policy is effective as of 2026-03-10
+
+**Your Consent**
+
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at micross.xp@gmail.com.
